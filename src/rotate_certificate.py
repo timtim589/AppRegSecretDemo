@@ -245,7 +245,7 @@ def main():
         certificate_name=CERTIFICATE_NAME,
     )
     cert, expiry = generate_certificate(
-        credential=credential,
+        credential=DefaultAzureCredential(),
     )
     add_certificate_to_app(
         credential=credential,
