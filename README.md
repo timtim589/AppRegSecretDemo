@@ -2,7 +2,7 @@
 A demo repository, containing scripts to automatically rotate Entra ID Application Registration secrets and certificates.
 The project is described in these two blogs:
 - [Secrets](https://medium.com/@TimGroothuis/application-registration-secrets-fire-forget-c447d4905698)
-- [Certificates]()
+- [Certificates](https://medium.com/@TimGroothuis/mastering-certificate-rotation-in-entra-id-65e580eadacc)
 
 # Required roles and permissions
 ### Graph permissions
